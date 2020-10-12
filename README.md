@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i'm a confirmed snowboarder 
+- ⚡ Fun fact: i'm a confirmed snowboarder 🏂🏂🏂🏂 
 
