@@ -14,7 +14,7 @@
 -->
 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a confirmed snowboarder 🏂🏂🏂🏂 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah584d&label=Profile%20views&color=0e75b6&style=flat" alt="uditkatyal" /> </p>
