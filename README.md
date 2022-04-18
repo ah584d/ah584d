@@ -13,9 +13,10 @@
 - 💬 Ask me about ...
 -->
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: [mail in profile]
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a confirmed snowboarder 🏂🏂🏂🏂 
+- ⚡ Fun fact: I'm a confirmed snowboarder ![image](https://user-images.githubusercontent.com/30211873/163882029-9772513f-f40e-4eb8-8c60-0c108be3c37d.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah584d&label=Profile%20views&color=0e75b6&style=flat" alt="uditkatyal" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ah584d" alt="uditkatyal" /></a> </p>
