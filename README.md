@@ -16,7 +16,7 @@
 - 📫 How to reach me: [mail in profile]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a confirmed snowboarder 
-- ![image](https://user-images.githubusercontent.com/30211873/163882376-79a21621-f4a9-4fa2-9a21-4b5c1fe9e671.png)
+- 🏂🏻🏂🏻
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah584d&label=Profile%20views&color=0e75b6&style=flat" alt="uditkatyal" /> </p>
