@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on a BIG BIG BIG React native application
 <!--
+- “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 - 🌱 I’m currently learning 
 
 - 👯 I’m looking to collaborate on ...
