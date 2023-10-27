@@ -4,7 +4,7 @@
 **ah584d/ah584d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a BIG BIG BIG React native application
+- 🔭 Working on web application and mobile application, JS expert
 <!--
 - “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 - 🌱 I’m currently learning 
