@@ -1,10 +1,9 @@
 <!--
 **ah584d/ah584d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ah584d&label=Profile%20views&color=0e75b6&style=flat" alt="ah584d" /> </p>
-
 <p align="center">
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/94d76115-8150-4a62-9cf0-314d9c376f7b" />
+  <img src="https://komarev.com/ghpvc/?username=ah584d&label=Profile%20views&color=0e75b6&style=flat" alt="ah584d" />
+  <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/133285c4-93a0-4f8a-bf81-7296e12972d1" />
 </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=5000&lines=Hi+There!+👋;+I'm+Avraham+Hamu!+🏂;" />
