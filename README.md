@@ -21,16 +21,31 @@ Interested in product-minded engineering, technical leadership, and continuous i
 - ⚡ Fun fact: I'm a confirmed snowboarder 🏂🏻🏂🏻
 
 <div align="center">
-  <!-- <a href="chijiokeokorji@gmail.com">
+  
+<p>
+
+  <!-- a href="_____@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+  <a href="https://linkedin.com/in/_______" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> -->
+  </a-->
+
+  
+  <a href="https://github.com/ah584d?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ah584d?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ah584d?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ah584d?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+     <!-- Medium -->
   <a href="https://medium.com/@avrahamhamu" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+    <img 
+      alt="Medium"
+      title="Follow me on Medium"
+      src="https://img.shields.io/badge/Medium-Profile-black?style=for-the-badge&logo=medium&logoColor=white"
+    />
   </a>
-</div>
+</p>
+
 
 <hr>
 
