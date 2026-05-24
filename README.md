@@ -74,6 +74,7 @@ Interested in product-minded engineering, technical leadership, and continuous i
 <hr>
 https://www.npmjs.com/package/azure-sas-token
 
+<div align="left">
 <!-- BLOG-POST-LIST:START -->
 - [How to Work Around Next.js](https://medium.com/att-israel/how-to-work-around-next-js-a9480677f9be?source=rss-afcba5bab133------2)
 - [How to easily define and configure your own ESLint rules without the hassle](https://medium.com/@avrahamhamu/how-to-easily-define-and-configure-your-own-eslint-rules-without-the-hassle-a15d1fb0134f?source=rss-afcba5bab133------2)
@@ -81,3 +82,5 @@ https://www.npmjs.com/package/azure-sas-token
 - [React Native Memoization Cheatsheet](https://medium.com/better-programming/react-native-memoization-cheatsheet-769ee2841aa2?source=rss-afcba5bab133------2)
 - [How to shrink &lpar;tree-shake&rpar; lodash in bundle file for React Native?](https://medium.com/att-israel/how-to-shrink-tree-shake-lodash-in-bundle-file-for-react-native-90813a995dfa?source=rss-afcba5bab133------2)
 <!-- BLOG-POST-LIST:END -->
+</div>
+
