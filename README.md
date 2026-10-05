@@ -45,7 +45,7 @@ Interested in product-minded engineering, technical leadership, and continuous i
   </a>
 </p>
 
-
+</div>
 <hr>
 
 <p align="center">
@@ -72,9 +72,10 @@ Interested in product-minded engineering, technical leadership, and continuous i
 </div>
 
 <hr>
+<h4>Visit my node lib to secure aws cloud resources</h4>
 https://www.npmjs.com/package/azure-sas-token
 
-<h3>Checkout my vs-code plugin to poll PR status</h3>
+<h4>Checkout my vs-code plugin to poll PR status</h4>
 https://marketplace.visualstudio.com/items?itemName=ah584d.pr-status-monitor
 
 <hr>
