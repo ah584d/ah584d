@@ -74,6 +74,9 @@ Interested in product-minded engineering, technical leadership, and continuous i
 <hr>
 https://www.npmjs.com/package/azure-sas-token
 
+<h3>Checkout my vs-code plugin to poll PR status</h3>
+https://marketplace.visualstudio.com/items?itemName=ah584d.pr-status-monitor
+
 <hr>
 
 <!-- BLOG-POST-LIST:START -->
